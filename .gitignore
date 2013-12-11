@@ -1,0 +1,12 @@
+Makefile
+Makefile.Debug
+Makefile.Release
+*.user
+*.a
+*.lib
+pkgconfig
+*.dll
+*.prl
+*.rc
+release
+debug
